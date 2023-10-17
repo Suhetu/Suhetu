@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Suhetu
-- 👀 I’m interested in any kind of tech projects revolving around Python
-- 🌱 I’m currently learning Data Analysis, Data Visualization, Machine Learning, Computer Vision and what not
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👋 Hi, I’m @Suhetu !
+- 👀 I’m interested in data projects revolving🌏 around Python🐍, ML⚒️, NLP👄 and CV👀
+- 🌱 I’m still learning how to become a good person💁🏻‍♂️, just kidding, a good Data Scientist
+- 💞️ I’m looking to collaborate🫱🏼‍🫲🏼 on challenging🧠 Data Science projects
 - 📫 How to reach me - suhetu24@gmail.com
 
 <!---
